@@ -1,5 +1,5 @@
 #  Linux-Files and Directories
-[In Linux,everything is stored as files and folders.Its important to understand the basic file and folder structure in linux,creation of files and folders, removing them, changing directories and using absolute and relative path.]
+In Linux,everything is stored as files and folders.Its important to understand the basic file and folder structure in linux,creation of files and folders, removing them, changing directories and using absolute and relative path.
 
 ## Key terminology
 
