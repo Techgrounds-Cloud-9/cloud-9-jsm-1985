@@ -32,27 +32,27 @@ Had to look up how to add a user to a sudoer list so as change the privileges.Un
 ### Results
 
 
-##### ![LNX-04-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-01.PNG)
+##### ![LNX-04-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-01.PNG)
 
 
-##### ![LNX-04-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-02.PNG)
+##### ![LNX-04-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-02.PNG)
 
 
-##### ![LNX-04-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-03.PNG)
+##### ![LNX-04-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-03.PNG)
 
 
-##### ![LNX-04-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-04.PNG)
+##### ![LNX-04-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-04.PNG)
 
-##### ![LNX-04-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-05.PNG)
+##### ![LNX-04-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-05.PNG)
 
-##### ![LNX-04-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-06.PNG)
-
-
-##### ![LNX-04-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-07.PNG)
+##### ![LNX-04-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-06.PNG)
 
 
-##### ![LNX-04-08img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-08.PNG)
+##### ![LNX-04-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-07.PNG)
 
 
-##### ![LNX-04-09img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04-09.PNG)
+##### ![LNX-04-08img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-08.PNG)
+
+
+##### ![LNX-04-09img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-09.PNG)
 

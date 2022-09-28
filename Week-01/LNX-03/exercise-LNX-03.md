@@ -30,10 +30,10 @@ Understood the difference when I executed commands to redirect the output to a f
 ### Results
 
 
-##### ![LNX-03-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03-01.PNG)
+##### ![LNX-03-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03/LNX-03-01.PNG)
 
 
-##### ![LNX-03-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03-02.PNG)
+##### ![LNX-03-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03/LNX-03-02.PNG)
 
 
 
