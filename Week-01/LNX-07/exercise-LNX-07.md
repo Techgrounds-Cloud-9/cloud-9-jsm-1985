@@ -51,9 +51,9 @@ The syntax for the arithematic operations like <= for integers in the shell scri
 
 ##### ![LNX-07-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-01.PNG)
 
-##### ![LNX-07-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-02.PNG)
+##### ![LNX-07-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-02-NoPATHVariable.PNG)
 
-##### ![LNX-07-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-03.PNG)
+##### ![LNX-07-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-03-PATHAdded.PNG)
 
 ##### ![LNX-07-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-04.PNG)
 
