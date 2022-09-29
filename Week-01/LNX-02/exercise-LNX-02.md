@@ -5,10 +5,15 @@ In Linux,everything is stored as files and folders.Its important to understand t
 ## Key terminology
 
   1. pwd- to know the present working directory
+
   2. cd - change directory
+
   3. ls -al - to list all the files and folders in the current directory.It shows who is the owner,group and others with their permissions.
+
   4. mkdir -to make a directory
+
   5. Absolute path- refers to the entire path starting from the root directory
+
   6. relative path - refers to the path starting from the directory the user is currently in
    
   
@@ -28,6 +33,7 @@ https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/#:~:text=An%20abs
 Had to look up for the difference between absolute and relative path.
 Understood the difference when I executed the cd commands 
 1) by giving the full path starting from the root and 
+
 2) another path relative to the pwd.
 
 ### Results
