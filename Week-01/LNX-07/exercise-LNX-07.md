@@ -4,11 +4,15 @@ It is a convienient way of automating the repetitive tasks which otherwise requi
 
 ## Key terminology
 
-  1. $PATH -  PATH variable specifies the directories to be searched to find a command.
+  1. $PATH -PATH variable specifies the directories to be searched to find a command.
+
   2. #!bin/bash- tells the OS to use bash as command interpreter. This is the first line of the scrpit,starting with the shebang characters #!.The interpreter can be Perl, python etc.
-  3.variables - to store values of int, float, string etc
-  4.$<var_name> -to access the value of the variable
-  5.RANDOM - is a variable maintained by the shell. Each time it is read, it generates a value between 0 to 32767.
+
+  3. variables - to store values of int, float, string etc
+
+  4. $<var_name> -to access the value of the variable
+
+  5.  $RANDOM - is a variable maintained by the shell. Each time it is read, it generates a value between 0 to 32767.
    
    
   
