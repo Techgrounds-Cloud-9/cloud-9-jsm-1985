@@ -1,5 +1,6 @@
 #  Linux-Files and Directories
-In Linux,everything is stored as files and folders.Its important to understand the basic file and folder structure in linux,creation of files and folders, removing them, changing directories and using absolute and relative path.
+In Linux,everything is stored as files and folders.Its important to understand the basic file and folder structure in linux,creation of files and folders, removing them, changing directories and using absolute and relative path.The base directory is the root directory. It contains different directories like /bin, /etc, /dev /home,/opt etc each meant for a specific purpose.
+
 
 ## Key terminology
 
@@ -7,6 +8,8 @@ In Linux,everything is stored as files and folders.Its important to understand t
   2. cd - change directory
   3. ls -al - to list all the files and folders in the current directory.It shows who is the owner,group and others with their permissions.
   4. mkdir -to make a directory
+  5. Absolute path- refers to the entire path starting from the root directory
+  6. relative path - refers to the path starting from the directory the user is currently in
    
   
 ## Exercise

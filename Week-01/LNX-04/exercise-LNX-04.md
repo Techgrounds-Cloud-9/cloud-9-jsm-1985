@@ -6,12 +6,12 @@ Linux supports multiple users simultaneously. Each user has their own account. T
 
   1. useradd- to create a new user
   2. groupadd- to create a group
-  3. passwd -to set the password for the user
+  3. passwd - to set the password for the user
   4. usermod -aG - add user to a group.
-  5. /etc/group - file in all groups are stored
+  5. /etc/group - file in which all groups are stored
   6. /etc/passwd-file in which all users are stores
   7. /etc/shadow- file which stores encryoted passwords.
-  8. visudo-file to which users can be added to change their permisssions.
+  8. visudo- file to which users can be added to change their permisssions.
    
   
 ## Exercise

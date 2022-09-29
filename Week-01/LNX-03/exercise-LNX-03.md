@@ -7,7 +7,7 @@ In Linux when compared to OS like Windows(which is more GUI focused), all the co
   2. redirection of outputs so that it becomes the input of another command using pipe 
   3. echo command-to print to terminal as well as to append to a file
   4. grep command - to filter lines in a file.combined with cat it can be used to filter the output from a file.
-  5. Difference between > and >> operators
+  5. Difference between > and >> operators -For output redirection, when > is used, the file gets overwritten while >> is used, it gets appended
    
   
 ## Exercise
@@ -22,10 +22,7 @@ https://stackoverflow.com/questions/34191883/what-is-the-difference-between-and-
 
 
 ### Overcome challenges
-understood the difference between overwriting a file and appending to a file.
-Understood the difference when I executed commands to redirect the output to a file using
-1)  `>` operator 
-2)  `>>` operator
+Had to look up on how to redirect the std.ouput to a file. Understood it by implementing >> command. Searched on how to filter the output. Understood it while implementing the grep command.
 
 ### Results
 
