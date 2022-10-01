@@ -40,24 +40,30 @@ Had to look on how to change the file permissions.Understood by implementing chm
 
 ### Results
 
-
+File creation(abc.txt)
 ##### ![LNX-05-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-01.PNG)
 
-
+long list using ls -l to see the owner and group. Owner is jayashree and group is jayashree for abc.txt
 ##### ![LNX-05-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-02.PNG)
 
-
+gave execute permission to owner
 ##### ![LNX-05-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-03.PNG)
 
-
+owner has all permissions,group and others zero
 ##### ![LNX-05-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-04.PNG)
 
+owner can read the file
 ##### ![LNX-05-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-05.PNG)
 
+changed owner to abc
 ##### ![LNX-05-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-06.PNG)
 
-
+the user(jayashree cant) read it as the owner is now abc.Also chnaged the group to abc
 ##### ![LNX-05-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-07.PNG)
+
+
+the user(jayashree) cant access it
+
 
 ##### ![LNX-05-08img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-05/LNX-05-08.PNG)
 
