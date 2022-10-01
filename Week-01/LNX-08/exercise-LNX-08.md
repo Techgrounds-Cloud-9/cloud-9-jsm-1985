@@ -78,7 +78,7 @@ Changed the owner of the script
 ##### ![LNX-08-08img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-08/LNX-08-08-ChangedPermissionAndOwnership.PNG)
 
 Error when tried to add crontab to the normal user jayashree
-##### ![LNX-08-09img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-08/LNX-08-09-LogsWritableByRootOnly)
+##### ![LNX-08-09img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-08/LNX-08-09-LogsWritableByRootOnly.PNG)
 
 
 Added to the Crontab of root
