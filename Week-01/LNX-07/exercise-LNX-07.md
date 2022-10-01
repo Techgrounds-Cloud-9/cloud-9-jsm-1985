@@ -4,9 +4,9 @@ It is a convienient way of automating the repetitive tasks which otherwise requi
 
 ## Key terminology
 
-  1. $PATH -PATH variable specifies the directories to be searched to find a command.
-
-  2. #!bin/bash- tells the OS to use bash as command interpreter. This is the first line of the scrpit,starting with the shebang characters #!.The interpreter can be Perl, python etc.
+  1. $PATH -PATH variable specifies the directories to be searched to find a command.  
+  
+  2. #!bin/bash- tells the OS to use bash as command interpreter. This is the first line of the scrpit,starting with the shebang characters, #!.The interpreter can be Perl, python etc.
 
   3. variables - to store values of int, float, string etc
 
@@ -44,24 +44,29 @@ https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
 
 
 ### Overcome challenges
-Had to look on how to generate the random number within a certain range in shell script. Understood it when I started with how to print a random variable using echo $RANDOM and then modified the syntax to print between 1 and 10 using echo $[$RANDOM % 10 + 1].
+Had to look on how to generate the random number within a certain range in shell script. Understood it when I started with how to print a random variable using `echo $RANDOM`  and then modified the syntax to print between 1 and 10 using `echo $[$RANDOM % 10 + 1]`.
 
 How to implement the if-else condition in shell scripting was another challenge. Understood it when if-then-else-fi syntax was implemented.
 
-The syntax for the arithematic operations like <= for integers in the shell scripting was also a challege. Understood it when "(( ))" was used appropriately.
+The syntax for the arithematic operations like <= for integers in the shell scripting was also a challege. Understood it when double round brackets "(( ))" was used appropriately.
 
 ### Results
 
-
+Exercise 1-To append lines
 ##### ![LNX-07-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-01.PNG)
 
+Trial to see how the script is executed if path variable is not set
 ##### ![LNX-07-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-02-NoPATHVariable.PNG)
 
+Executing the script after adding the absolute path of the scripts to the environmental variable
 ##### ![LNX-07-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-03-PATHAdded.PNG)
 
+Exercise1-to install Apache2
 ##### ![LNX-07-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-04.PNG)
 
 ##### ![LNX-07-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-05.PNG)
+
+Exercise 2 -random number generator
 
 ##### ![LNX-07-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-06.PNG)
 
@@ -69,7 +74,7 @@ The syntax for the arithematic operations like <= for integers in the shell scri
 
 ##### ![LNX-07-08img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-08.PNG)
 
-
+Exercise 3 -random number generator with if condtion
 ##### ![LNX-07-09img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-09.PNG)
 
 ##### ![LNX-07-10img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-07/LNX-07-10.PNG)
