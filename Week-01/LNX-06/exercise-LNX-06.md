@@ -40,13 +40,13 @@ Had to look up on how to install and start the telnetd (telent deamon) server in
 
 ### Results
 
-
+installing telnetd
 ##### ![LNX-06-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-06/LNX-06-01.PNG)
 
-
+checking the status
 ##### ![LNX-06-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-06/LNX-06-02.PNG)
 
-
+getting the pid 
 ##### ![LNX-06-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-06/LNX-06-03.PNG)
 
 
