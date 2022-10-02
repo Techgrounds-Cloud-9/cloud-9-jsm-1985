@@ -26,7 +26,7 @@ https://docs.zettlr.com/en/concepts/wysiwym/#:~:text=The%20guiding%20principle%2
 
 ### Results
 
-
+Sample md file created using VSCode (Auto open markdown preview is enabled)
 ##### ![SampleMDimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/SampleMarkDown/SampleMDimg-01.PNG)
 
 
