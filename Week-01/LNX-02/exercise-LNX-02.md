@@ -38,9 +38,9 @@ Understood the difference when I executed the cd commands
 
 ### Results
 
-
+finding current directory, listing files & folders, craeting new folder techgrounds
 ##### ![LNX-02-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-01.PNG)
-
+listing to see the new directory techgrounds,creating the file inside techgrounds
 ##### ![LNX-02-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-02.PNG)
 
 ##### ![LNX-02-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-03.PNG)
