@@ -32,10 +32,10 @@ Had to look up how to add a user to a sudoer list so as change the privileges.Un
 
 ### Results
 
-adding the uer,setting the user's passwd,creating groupand finally trying to display /etc/passwd content, but list is long
+adding the uer,setting the user's passwd,creating group and finally trying to display /etc/passwd content, but list is long
 ##### ![LNX-04-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-01.PNG)
 
-using grep to get the deatils of the user js, tring to list contents of /etc/groups, but again it a long list
+using grep to get the deatils of the user js, tring to list contents of /etc/groups, but again its a long list
 ##### ![LNX-04-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-04/LNX-04-02.PNG)
 
 using grep to get the details of admingroup, adding the user js to admingroup
