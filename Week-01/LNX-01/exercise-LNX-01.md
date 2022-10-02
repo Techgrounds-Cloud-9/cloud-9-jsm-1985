@@ -47,7 +47,7 @@ ip address - ip address of the remote server.
 
 ##### ![LNX-01-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-01/LNX-01-02.PNG)
 
-##### ![LNX-01-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-01/LNX-01-03.PNG)
+##### ![LNX-01-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-01/LNX-01-03.PNG)
 
 
 
