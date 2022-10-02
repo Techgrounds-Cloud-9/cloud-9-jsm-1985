@@ -29,7 +29,7 @@ Had to look up on how to redirect the std.ouput to a file. Understood it by impl
 lines containing techgrounds redirected to the textfile
 ##### ![LNX-03-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03/LNX-03-01.PNG)
 
-
+the line containing techgrounds filtered using grep and the filtered output redirected to another file
 ##### ![LNX-03-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-03/LNX-03-02.PNG)
 
 
