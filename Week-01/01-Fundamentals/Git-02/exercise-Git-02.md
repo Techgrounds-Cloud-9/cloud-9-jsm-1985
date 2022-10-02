@@ -25,11 +25,11 @@ The following steps were undertaken to push a sample text file from a local fold
 
 ### Results
 
-
+opening the repo in github desktop to clone
 ##### ![Git-02-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-02/Git-02-01.PNG)
-
+cloning the repo
 ##### ![Git-02-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-02/Git-02-02.PNG)
-
+cloned repo is visible in githubdesktop
 ##### ![Git-02-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-02/Git-02-03.PNG)
 
 
