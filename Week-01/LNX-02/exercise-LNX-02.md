@@ -42,9 +42,9 @@ finding current directory, listing files & folders, craeting new folder techgrou
 ##### ![LNX-02-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-01.PNG)
 listing to see the new directory techgrounds,creating the file inside techgrounds
 ##### ![LNX-02-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-02.PNG)
-
+changing directories
 ##### ![LNX-02-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-03.PNG)
-
+created two directories tg1 and tg2 and moving around 
 ##### ![LNX-02-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/LNX-02/LNX-02-04.PNG)
 
 
