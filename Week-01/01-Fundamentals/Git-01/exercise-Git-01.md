@@ -46,13 +46,13 @@ b)pusblihed by clicking on "publish repository" button.
 
 ### Results
 
-
+created a repo using github desktop
 ##### ![Git-01-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-01/Git-01-01.PNG)
-
+created a text file and its changes are noted
 ##### ![Git-01-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-01/Git-01-02.PNG)
-
+commiting and pushing to remote github repo
 ##### ![Git-01-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-01/Git-01-03.PNG)
-
+finally the local repo is visible in github
 ##### ![Git-01-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Git-01/Git-01-04.PNG)
 
 
