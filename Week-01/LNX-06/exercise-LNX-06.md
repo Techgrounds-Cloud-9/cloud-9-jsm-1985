@@ -2,11 +2,11 @@
 
 The 3 modes in which a process can be run in a Linux are
 
-Deamons - A process that runs continuously in the background and wakes up to handle periodic service request from remote processes.Its usually non interactive
+Deamons - A process that runs continuously in the background and wakes up to handle periodic service request from remote processes.Its usually non interactive. Examples include doing a  task at a set time(cron job), response to certain events if it occurs etc.
 
-Services- A combination of resources to provide some functionality, responding to requeats from programs.Can be interactive.
+Services- A combination of resources to provide some functionality, responding to requeats from programs.Can be interactive.Eg- apache2 is a service .
 
-Programs-Run and used by users to accomplish a task.
+Programs-Run and used by users to accomplish a task.Eg-vim editor. 
 
 ## Key terminologies
 
@@ -15,6 +15,8 @@ Programs-Run and used by users to accomplish a task.
   2. top - to see the real time view of running processes 
 
   3. kill - to kill the unwanted processes.
+
+  4. pid - process id of the process which helps to uniquely identify it.it can be made use of in commands like kill etc. 
    
   
 ## Exercise
