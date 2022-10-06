@@ -102,7 +102,7 @@ Both the models were studied and compared.
 
 reference - https://en.wikipedia.org/wiki/OSI_model
 
-##### ![NTW-01-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/tree/main/00_includes/Week-02/NTW/NTW-01-02.png)
+##### ![NTW-01-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-01-02.png)
 
 reference - https://www.tutorialspoint.com/OSI-vs-TCP-IP-Reference-Model
 
