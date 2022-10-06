@@ -71,14 +71,14 @@ When tried to assign an ip address to the laptop ouside of the home network, it 
 
 ##### ![NTW-05-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-01-publicip.png)
 
-##### ![NTW-05-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-02-privateip-Laptop.png)
+##### ![NTW-05-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-02-privateip-Laptop.PNG)
 
-##### ![NTW-05-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-03-privateips-routerinterface.png)
+##### ![NTW-05-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-03-privateips-routerinterface.PNG)
 
-##### ![NTW-05-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-04-ChangedLatop-ip.png)
+##### ![NTW-05-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-04-ChangedLatop-ip.PNG)
 
-##### ![NTW-05-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-05-ChangedMobile-ip.png)
+##### ![NTW-05-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-05-ChangedMobile-ip.PNG)
 
-##### ![NTW-05-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-06-InterChangedIPs.png)
+##### ![NTW-05-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-06-InterChangedIPs.PNG)
 
-##### ![NTW-05-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-07-InvalidIPAddr.png)
+##### ![NTW-05-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-07-InvalidIPAddr.PNG)
