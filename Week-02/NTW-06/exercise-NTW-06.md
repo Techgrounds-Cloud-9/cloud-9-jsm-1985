@@ -42,7 +42,7 @@ The third block of 192.168.0.128/26 was taken and divided into groups of size 8.
 ### Results
 Subnet A can be used to host 31 ip addresses, subnet B can be used to accomodate 16 ip addresses and subnet C can host 5 ip addresses.
 
-##### ![NTW-06-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-06-subnet.PNG)
+##### ![NTW-06-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-06-subnet.png)
 
 
 
