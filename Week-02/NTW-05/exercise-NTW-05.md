@@ -69,16 +69,23 @@ Since public ips are assigned by ISP, users cant change it. Private ip of connec
 
 When tried to assign an ip address to the laptop ouside of the home network, it throws error.  
 
+public ip of my devices
 ##### ![NTW-05-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-01-publicip.png)
 
+private ip of laptop
 ##### ![NTW-05-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-02-privateip-Laptop.PNG)
 
+connected devices and their ip and mac addresses
 ##### ![NTW-05-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-03-privateips-routerinterface.PNG)
 
+changing the ip of laptop to that of mobile
 ##### ![NTW-05-04img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-04-ChangedLatop-ip.PNG)
 
+changing the ip of mobile to that of laptop
 ##### ![NTW-05-05img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-05-ChangedMobile-ip.PNG)
 
+interchanged ips
 ##### ![NTW-05-06img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-06-InterChangedIPs.PNG)
 
+when assigning a new ip outside the existig dhcp range it throws error(current dhcp range is in the series of 192.1 and when tried to give 192.2, iit threw error)
 ##### ![NTW-05-07img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-05-07-InvalidIPAddr.PNG)
