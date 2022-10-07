@@ -67,11 +67,13 @@ Physical - Cabling protocols like Fiber, coax, Ethernet
 
     broadcast- one sender sends message to all connected receipients.
 
-
+wireshark installation
 ##### ![NTW-03-01img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-03-01-InstallWireShark.PNG)
 
+tcp protocol filtering after opening youtube on browser
 ##### ![NTW-03-02img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-TCP-02-ContainsYoutube.PNG)
 
+udp protocol filtering when connected to zoom
 ##### ![NTW-03-03img](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/NTW/NTW-UDP-03-ContainsZoom.PNG)
 
 
