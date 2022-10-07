@@ -44,13 +44,16 @@ https://www.geeksforgeeks.org/difference-between-hardware-firewall-and-software-
 Had to find out how the firewalls work on ubuntu server. Understood it while implementing the ufw commands. The default page of apache2 was accessible initially. After denying the traffic by setting the deny rule, the page became inaccessible.
 
 ### Results
-
+Apache2 was installed already while doing an exercise on linux. It is working as can be seen below.
 ##### ![SEC-02-01-Installnmapimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-02-01-ITWorks.PNG)
 
+First ssh is enabled and only then ufw is enabled , else by default ufw blocks all incoming traffic.(allows all outgoing)
 ##### ![SEC-02-02-ufwEnablenmapimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-02-02-ufwEnable.PNG)
 
+The service apache is denied 
 ##### ![SEC-02-03-denyApachepimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-02-03-denyApache.PNG)
 
+The site is unreachable now
 ##### ![SEC-02-04-unreachableWebsiteimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-02-04-unreachableWebsite.PNG)
 
 
