@@ -29,6 +29,9 @@ https://www.redhat.com/sysadmin/use-cases-nmap
 
 https://en.wikipedia.org/wiki/Wireshark
 
+https://nmap.org/book/man.html
+
+
 
 ### Overcome challenges
 Had to find out how to install nmap. Had to find the command to scan the system. Understood it on implementing the 'nmap host-address'. 
@@ -36,7 +39,8 @@ Had to find out how to install nmap. Had to find the command to scan the system.
 The challenge with wireshark was how to find the required packets. Understood it when I could filter packets based on filtering protocols like udp contains zoom. We can filter out the packets based on protocols.
 
 ### Results
-1.On scanning with nmap, it shows which processes are running on which ports.
+1.On scanning with nmap, it shows which processes are running on which ports with their port number and state.Also when used with ip address/24,
+it showed the details of other instances as well.
 
 ##### ![SEC-01-01-Installnmapimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-01-Installnmap.PNG)
 
