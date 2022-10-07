@@ -40,7 +40,7 @@ The challenge with wireshark was how to find the required packets. Understood it
 
 ### Results
 1.On scanning with nmap, it shows which processes are running on which ports with their port number and state.Also when used with ip address/24,
-it showed the details of other instances as well.
+it showed the details of other instances as well.  
 nmap installation
 ##### ![SEC-01-01-Installnmapimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-01-Installnmap.PNG)
 net-tools installation(needed to use the command ifconfig)
