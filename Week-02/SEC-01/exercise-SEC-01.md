@@ -52,14 +52,14 @@ namp on my server
 nmap on other instances
 ##### ![SEC-01-05-nmapOtherInstancesimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-05-nmapOtherInstances.PNG)
 
-2.On turning off zoom, the packets sent and received from zoom were stopped.The only packets visible were the packets sent and received by the web browser.The website of cisco was open and on filtering it using udp contains cisco, I could see the data exchange between the browser and the website.I could see that DNS protocol was used to resolve tthe website name to its ip address.
-Before zoom connection, the packets were less
+2.On turning off zoom, the packets sent and received from zoom were stopped.The only packets visible were the packets sent and received by the web browser.The website of cisco was open and on filtering it using udp contains cisco, I could see the data exchange between the browser and the website.I could see that DNS protocol was used to resolve tthe website name to its ip address.  
+Before zoom connection, if you filter, wont be dispalyed because packets have not started to send and receive
 ##### ![SEC-01-06-beforeZoomConnectionimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-06-beforeZoomConnection.PNG)
 The number of packets increases after connecting to zoom
 ##### ![SEC-01-07-AfterZoomConnectionimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-07-AfterZoomConnection.PNG)
-the number of packets decreases after disconnection 
+the number of packets decreases after disconnection. The packet number 21887 was the last packet corresponding to zoom and on disconnection, the communication has stopped. 
 ##### ![SEC-01-08-zoomAfterDisconnectionimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-08-zoomAfterDisconnection.PNG)
-on visiting the wbsite of cisco,the relevant information can be analysed.
+on visiting the wbsite of cisco,the relevant information can be analysed.The source mac address is the mac address of my laptop and destination mac address is the mac address of roueter. The source ip is the ip address of my laptop and destination ip is the ip address of my router which has in built DNS server.Also the source port is the port number of my local machine, while destination port is 53 which corresponds to DNS server.
 ##### ![SEC-01-09-VisitWebsiteimg](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-02/SEC/SEC-01-09-VisitWebsite.PNG)
 
 
