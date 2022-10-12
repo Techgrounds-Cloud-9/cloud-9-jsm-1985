@@ -20,7 +20,7 @@ https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:o
 
 https://www.geeksforgeeks.org/difference-between-symmetric-and-asymmetric-key-encryption/
 
-cryptomathic.com/news-events/blog/differences-between-hash-functions-symmetric-asymmetric-algorithms#:~:text=Asymmetric-key%20algorithms%20are%20commonly,is%20called%20a%20key%20pair.
+https://cryptomathic.com/news-events/blog/differences-between-hash-functions-symmetric-asymmetric-algorithms#:~:text=Asymmetric-key%20algorithms%20are%20commonly,is%20called%20a%20key%20pair.
 
 ### Overcome challenges
 Had to look up on how to encrypt a message using a public key and decrypt it using private key. 
@@ -28,14 +28,18 @@ Had to look up on how to encrypt a message using a public key and decrypt it usi
 ### Results
 The key pair was generated using an online RSA tool. The public key was shared with my colleagues and they sent me the encrypted message which I was able to decrypt using my private key. 
 
+
 Public and private key generation
 ##### ![SEC-05-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-05/SEC-05-01-privatePublickeyGeneration.PNG)
 
-Sharing of my public key in Slack and the encrypted messahes by colleagues
+
+Sharing of my public key in Slack and the encrypted messages by colleagues
 ##### ![SEC-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-05/SEC-05-02-PublicKeySharingAndEncryptedMsgs.PNG)
+
 
 Decryption of message sent by collegue
 ##### ![SEC-05-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-05/SEC-05-03-Decryption.PNG)
+
 
 Decryption of message sent by collegue
 ##### ![SEC-05-04](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-05/SEC-05-04-DecryptedMsg.PNG)
