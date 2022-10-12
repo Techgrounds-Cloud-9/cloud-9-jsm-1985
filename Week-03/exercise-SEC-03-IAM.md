@@ -37,6 +37,8 @@ https://www.paloaltonetworks.com/cyberpedia/what-is-the-principle-of-least-privi
 
 https://insights.dice.com/2013/02/20/the-four-keys-to-identity-and-access-management/
 
+https://www.checkpoint.com/cyber-hub/network-security/what-is-the-principle-of-least-privilege-polp/#:~:text=The%20Principle%20of%20Least%20Privilege%20%28POLP%29%20is%20an,and%20permissions%20required%20to%20perform%20their%20job%20role.
+
 ### Overcome challenges
 Had to understand the different techniques used in security like how to find out if the claimed person is actually that person himself or not, who has access/permission to do what etc which is the difference between authentication and authorization.
 
@@ -77,7 +79,15 @@ The key differences are
 2. Something the user knows - includes something only the user knows like password, PIN etc.
 3. something the user is- includes physical chatracteristic of the user like biometrics(eye iris, finger print etc.)
 
-3) Principle of Least Privilege(PoLP) - Also known as Principal of Minimum Privilege. It implies that a user/entity should have access to data/resources to complete the required task and nothing more than that. It thus give each user only the minimum privileges which inturn helps to improve the security and prevent data breach and is considered as a best practice in authorization. 
+3) Principle of Least Privilege(PoLP) - Also known as Principal of Minimum Privilege. It implies that a user/entity should have access to data/resources to complete the required task and nothing more than that. It thus give each user only the minimum privileges which inturn helps to improve the security and prevent data breach and is considered as a best practice in authorization. Some benefits of POLP are
+
+1) reduction of cyber risk- As teh access is restricted, it becomes more difficult for the attacker to gain access to the system.
+
+2) Fewer errors - With POLP, the potential of accidental leaks, outages etc are reduced.
+
+3) Incresed visibilty- Implementing POLP increases the visiblity of organisation's access control systems as opposed to an all allow policy
+
+4) Simplified compliance - The implementation of POLP shrinks the scope of compliance responsibilities and audits thus making it easier to achieve compliance.
 
 
 
