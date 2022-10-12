@@ -74,7 +74,7 @@ Another challenge was to find the certification path in the local machine.I navi
 1) A self signed certificate was created using the openssl tool. 
 
 Certificate generation
-##### ![SEC-06-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-05-01-SEC-06-01-CertificateGenerate.PNG)
+##### ![SEC-06-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-06-01-CertificateGenerate.PNG)
 
 Displaying contents of the certificate
 ##### ![SEC-06-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-06-02a-DisplayContentsCertificate.PNG)
