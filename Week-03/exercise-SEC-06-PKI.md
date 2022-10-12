@@ -92,7 +92,7 @@ Changing the permission of key
 Certification path of techgrounds
 ##### ![SEC-06-06](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-06-06-CertificateTG.PNG)
 
-##### ![SEC-06-07](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06SEC-06-07-TGCertificateDetails.PNG)
+##### ![SEC-06-07](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-06-07-TGCertificateDetails.PNG)
 
 Certification path of ING
 ##### ![SEC-06-08](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-03/SEC-06/SEC-06-08-INGCertificate.PNG)
