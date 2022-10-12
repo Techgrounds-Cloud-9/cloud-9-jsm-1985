@@ -43,7 +43,7 @@ https://www.checkpoint.com/cyber-hub/network-security/what-is-the-principle-of-l
 Had to understand the different techniques used in security like how to find out if the claimed person is actually that person himself or not, who has access/permission to do what etc which is the difference between authentication and authorization.
 
 ### Results
-1) Authentication- It is the process which ensures that a person is who he actually claims to be by verifying his identity via different techniques like 
+1)Authentication- It is the process which ensures that a person is who he actually claims to be by verifying his identity via different techniques like 
 
 a) password based authentication - the user is successfully authenticated only if he can provide the username and password stored in the database
 
@@ -74,20 +74,20 @@ The key differences are
 
 5) In authentication, the transmit information is done through id token and in authorization it is done through access token.
 
-2) The three facors of authentication are
+2)The three facors of authentication are
 1. something the user has- includes any physical object the user has like a bank card, a security token etc
 2. Something the user knows - includes something only the user knows like password, PIN etc.
 3. something the user is- includes physical chatracteristic of the user like biometrics(eye iris, finger print etc.)
 
-3) Principle of Least Privilege(PoLP) - Also known as Principal of Minimum Privilege. It implies that a user/entity should have access to data/resources to complete the required task and nothing more than that. It thus give each user only the minimum privileges which inturn helps to improve the security and prevent data breach and is considered as a best practice in authorization. Some benefits of POLP are
+3)Principle of Least Privilege(PoLP) - Also known as Principal of Minimum Privilege. It implies that a user/entity should have access to data/resources to complete the required task and nothing more than that. It thus give each user only the minimum privileges which inturn helps to improve the security and prevent data breach and is considered as a best practice in authorization. Some benefits of POLP are
 
-1) reduction of cyber risk- As teh access is restricted, it becomes more difficult for the attacker to gain access to the system.
+1.  reduction of cyber risk- As teh access is restricted, it becomes more difficult for the attacker to gain access to the system.
 
-2) Fewer errors - With POLP, the potential of accidental leaks, outages etc are reduced.
+2.  Fewer errors - With POLP, the potential of accidental leaks, outages etc are reduced.
 
-3) Incresed visibilty- Implementing POLP increases the visiblity of organisation's access control systems as opposed to an all allow policy
+3.  Incresed visibilty- Implementing POLP increases the visiblity of organisation's access control systems as opposed to an all allow policy
 
-4) Simplified compliance - The implementation of POLP shrinks the scope of compliance responsibilities and audits thus making it easier to achieve compliance.
+4.  Simplified compliance - The implementation of POLP shrinks the scope of compliance responsibilities and audits thus making it easier to achieve compliance.
 
 
 
