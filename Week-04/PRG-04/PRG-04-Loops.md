@@ -40,9 +40,9 @@ Had to look up on the syntax for iteration using for loop and while loop.
 
 For the multiplication  variable x was initialized to 5 in the beginning. Using for loop for an iteration of 50 times, the range function was used. Each value of i was multiplied with 5 and the result was displayed.
 
-##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-a.PNG.PNG)
+##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-a.PNG)
 
-##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-b.PNG.PNG)
+##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-b.PNG)
 
 
 3) A list of names was created. The for loop was used to iterate over each element of the list and they were printed.
