@@ -12,7 +12,7 @@ range - a default built in function to specify a range of numeric values.It incl
 1. 	Create a new script. Create a variable x and give it the value 0. Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.
 2. Create a new script. Copy the code below into your script.
  for i in range(10):
-    # do something here
+     do something here
 Print the value of i in the for loop. You did not manually assign a value to i. Figure out how its value is determined. Add a variable x with value 5 at the top of your script.
 Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.
 3. Create a new script. Copy the array below into your script. arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]. Use a for loop to loop over the array. Print every name individually.
@@ -34,19 +34,19 @@ Had to look up on the syntax for iteration using for loop and while loop.
 ### Results
 1) Created a variable x to which was initialized to zero. while loop starts if condtion is true and the iteration continues till the condition is false. Here the given condition of x<=10 was true for the first iteration. Hence it printed the initial value of x which is zero and then x was incremented by 1. The loop kept on iterating till the condition became false (i.e, when x became 11)
 
-##### ![PRG-04-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/while-loop.PNG)
+##### ![PRG-04-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/while-loop.PNG)
 
 2) range is an in built function in python which generates values including the lower limit and excluding the upper limit for a default increment of 1. First for a range of 10, using for loop the values from 0 to 9 were printed. 10 was not printed. 
 
 For the multiplication  variable x was initialized to 5 in the beginning. Using for loop for an iteration of 50 times, the range function was used. Each value of i was multiplied with 5 and the result was displayed.
 
-##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-a.PNG.PNG)
+##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-a.PNG)
 
-##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-b.PNG.PNG)
+##### ![PRG-04-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-multiply-b.PNG)
 
 
 3) A list of names was created. The for loop was used to iterate over each element of the list and they were printed.
-##### ![PRG-04-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-0/for-loop-listnames.PNG)
+##### ![PRG-04-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-listnames.PNG)
 
 
 

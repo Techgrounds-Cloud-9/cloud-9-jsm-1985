@@ -36,11 +36,11 @@ Looked up on how to use if-elif-else block. Another challenge was on how to use 
 ### Results
 1) A variable was created to which my name was assigned. Using the input function, a name was taken from the user which was then checked with the name variable. If equal, the greeting message was printed.When a different name was input, it asked the user to leave. 
 
-##### ![PRG-05-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/PRG-05/condition-01.PNG)
+##### ![PRG-05-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-05/condition-01.PNG)
 
 2) while condition was used for the number guessing. Initially, True was used with while to start the loop. This is an infinite loop which keeps on iterating unless it is stopped explicitly with a break statement. A number was taken as a user input and it was checked with 100. If it is 100, break statement was used to quit the loop and if it is less than or greater than 100, appropriate messages were used along with continue statement. The continue statement will take the control to the beginning of the while loop and thus prompts the user to enter the value till he enters 100.
 
-##### ![PRG-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/PRG-05/condition-02.PNG)
+##### ![PRG-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-05/condition-02.PNG)
 
 
 

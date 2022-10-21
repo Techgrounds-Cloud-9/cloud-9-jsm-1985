@@ -4,13 +4,21 @@ Comments in python increases code readability making it easier for others to und
 
 ## Key terminologies
 int - Indicates that the numeric value is a whole number
+
 float - A numeric data type with decimal portion.
+
 complex - Complex number consisting of a real part and an imaginary portion
+
 str - String data type. Uses a single quote, double quote. For multi line strings, usually a triple quotes is used.
+
 bool - Denoted by a True or False. Usually used in checking some conditions.
+
 Lists - Mutable collection of elements allowing repetitive elements in a sequential manner
+
 Dictionary - A value is always mapped to the key.
+
 Tuple - Immutable but allows repetition of elements
+
 Sets - Unordered collection of elements which does not allow duplicate values.
 
 
@@ -46,6 +54,8 @@ When tried to add b (int type) with d (str type), it threw an error because both
 To get the output as float the variable d(str type) was converted to float and added to b (int data type). When an int is added to a float, the result will be float. 
 
 ##### ![PRG-03-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/datatype-01.PNG)
+
+Error when data types are of different types
 
 ##### ![PRG-03-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/datatype-02.PNG)
 
