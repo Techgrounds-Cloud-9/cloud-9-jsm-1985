@@ -1,7 +1,9 @@
 #  Number Guessing Game
 
 ●	Generate a random number between 1 and 100 (or any other range).
+
 ●	The player guesses a number. For every wrong answer the player receives a clue.
+
 ●	When the player guesses the right number, display a score.
 
 ### Sources
@@ -10,6 +12,7 @@ https://www.geeksforgeeks.org/number-guessing-game-in-python/
 https://thecleverprogrammer.com/2022/06/29/number-guessing-game-using-python/#:~:text=So%20below%20is%20how%20you,%3A%20print(%22Too%20high!
 
 ### Results
+An initial input for maximum value was taken from the user. The user was asked to guess a number. Both these were validated to see if they were digits and positive numbers. A random guess was assigned for the computer. Based on the guess the user made, a clue was given to guess below or above his previous guess. The number of times the user guessed was kept track of. Finally when the user-guess matched with the computer's random choice, the user was declared the winner.  
 
 ```python
 import random
