@@ -55,6 +55,8 @@ To get the output as float the variable d(str type) was converted to float and a
 
 ##### ![PRG-03-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/datatype-01.PNG)
 
+Error when data types are of different types
+
 ##### ![PRG-03-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/datatype-02.PNG)
 
 2) Using input function, different types of data like name, age, an integer value, a float value and a boolean value was taken from the user and assigned to variables. The data type of each of these values was checked and found that the input function always stores the value as str type.
