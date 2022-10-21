@@ -4,13 +4,21 @@ Comments in python increases code readability making it easier for others to und
 
 ## Key terminologies
 int - Indicates that the numeric value is a whole number
+
 float - A numeric data type with decimal portion.
+
 complex - Complex number consisting of a real part and an imaginary portion
+
 str - String data type. Uses a single quote, double quote. For multi line strings, usually a triple quotes is used.
+
 bool - Denoted by a True or False. Usually used in checking some conditions.
+
 Lists - Mutable collection of elements allowing repetitive elements in a sequential manner
+
 Dictionary - A value is always mapped to the key.
+
 Tuple - Immutable but allows repetition of elements
+
 Sets - Unordered collection of elements which does not allow duplicate values.
 
 
