@@ -34,7 +34,7 @@ Had to look up on the syntax for iteration using for loop and while loop.
 ### Results
 1) Created a variable x to which was initialized to zero. while loop starts if condtion is true and the iteration continues till the condition is false. Here the given condition of x<=10 was true for the first iteration. Hence it printed the initial value of x which is zero and then x was incremented by 1. The loop kept on iterating till the condition became false (i.e, when x became 11)
 
-##### ![PRG-04-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-03/while-loop.PNG)
+##### ![PRG-04-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/while-loop.PNG)
 
 2) range is an in built function in python which generates values including the lower limit and excluding the upper limit for a default increment of 1. First for a range of 10, using for loop the values from 0 to 9 were printed. 10 was not printed. 
 
@@ -46,7 +46,7 @@ For the multiplication  variable x was initialized to 5 in the beginning. Using 
 
 
 3) A list of names was created. The for loop was used to iterate over each element of the list and they were printed.
-##### ![PRG-04-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-0/for-loop-listnames.PNG)
+##### ![PRG-04-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-04/for-loop-listnames.PNG)
 
 
 
