@@ -21,6 +21,8 @@ https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/
 
 ### Results
 
+The game was designed to run for 5 rounds. Separate functions were created for choice selection, validate that selection, to decide the winner, track the score in each round and for the overall rounds. The function calls were made appropriately. 
+
 ```python
 import random
 user_score = 0
@@ -106,8 +108,9 @@ else:
 
 ```
  
-
+Invalid inputs leading to continuous prompting
 ##### ![PRG-09-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-09-MiniProjects/rps-01-InvalidChoices.PNG)
 
+Proper inputs leads to final score
 ##### ![PRG-09-02b](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-04/PRG-09-MiniProjects/rps-02-validChoices.PNG)
 
