@@ -29,24 +29,22 @@ Access Control List (ACL) - read, write , full_control to specific users for an 
 ## Exercise
 1. Create new S3 bucket with the following requirements: Region: Frankfurt (eu-central-1)
 
-● Upload a cat picture to your bucket.
+    ● Upload a cat picture to your bucket.
 
-● Share the object URL of your cat picture with a peer. Make sure they are able to see the picture.
+    ● Share the object URL of your cat picture with a peer. Make sure they are able to see the picture.
 
-2. Exercise 2
-● Create new bucket with the following requirements:Region: Frankfurt eu-central-1)
+2. Create new bucket with the following requirements:Region: Frankfurt eu-central-1)
 
-● Upload the four files that make up AWS’ demo website.
+    ● Upload the four files that make up AWS’ demo website.
 
-● Enable static website hosting.
+    ● Enable static website hosting.
 
-● Share the bucket website endpoint with a peer. Make sure they are able to see the website.
+    ● Share the bucket website endpoint with a peer. Make sure they are able to see the website.
 
 ### Sources
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://aws.amazon.com/s3/faqs/?nc=sn&loc=7
-
 
 https://aws.amazon.com/s3/storage-classes/?nc=sn&loc=3
 
@@ -56,24 +54,30 @@ Had to see how to make the url of the uploaded image (i.e. the object) public. A
 ### Results
 1) The s3 bucket was created with a global unique name in eu-central(frankfurt) region. The ACL was enabled so that ACL permissions can be edited. Then the 'block all public access' was unchecked so that public has access to the bucket and objects. An image of the cat was uploaded. It was selected and read permission was granted to the public. The url of the uploaded image was tested in a web browser by a colleague and it was verified  that the image was accessible.
 
+enabling ACL 
 ##### ![AWS-05-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/01-CreateBuckets-ACL-enabled.PNG)
 
+Give public access
 ##### ![AWS-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/02-CreateBucket-BucktAndObjectPublic.PNG)
 
+
+Object uploaded
 ##### ![AWS-05-03](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/03-ObjectUploaded-.PNG)
 
+Editing object ACL
 ##### ![AWS-05-04](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/04-ACLOfObjectEdited.PNG)
 
+Image-accessiblity confirmed by a peer
 ##### ![AWS-05-05](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/05-CatImageAccessible.PNG)
-
-
-##### ![AWS-05-06](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/.PNG)
 
 
 2) An S3 bucket was created and settings was done as above. The files of the static web site were uploaded to the bucket. In the properties tab, static website hosting was enabled. The  files index.html and error.html were specified. All these images were selected at once and made public via ACL (using the actions drop down). The accessibility of the website was tested by a colleague who confirmed that url was accessible using a web browser. 
 
+configuring the settings of static website
 ##### ![AWS-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/StaticWebsite-01.PNG)
 
+
+accessing the website
 ##### ![AWS-05-02](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-05/AWS-05/StaticWebsite-02.PNG)
 
 
