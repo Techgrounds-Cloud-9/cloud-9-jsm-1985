@@ -59,7 +59,7 @@ Had to look up on how the AWS offers services in each of the different fields li
 
 
 ### Results
-1) The services like Elastic Beanstalk, CloudFront and Route53 were studied. 
+1)The services like Elastic Beanstalk, CloudFront and Route53 were studied. 
 
 ElasticBeanStalk - Is a PaaS service intended to deploy applications on AWS with full control over configuration. Payment is done for the underlying infrastructure. It supports many platforms like python, go, single/multi container docker. When an application is deployed, it works with other services like ec2 to configure servers, S3 for storage purpose, cloud watch for monitoring the health, CloudFormation for provisioning the infrastructure. 
 
@@ -72,16 +72,16 @@ Route53 - Is a DNS(DDomain Name System) service. It translates the domain names 
 a) Two ec2 instances were launched in 2 different AZs and  a security group allowing NFS and ssh protocol. An EFS file system was created in which 3 AZs were selected a the mount points. In both the  ec2 instances, the nfs-utils were installed, a directory was created and mounted. Three files were created in one instance and they were accessible in the second instance.  
 
 S.G. of the instances
-##### ![AWS-13-EFS-00](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-13/EFS/00-SGOfec1-AZ1a.PNG)
+##### ![AWS-13-EFS-00](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/00-SGOfec1-AZ1a.PNG)
 
 Two instances launched
-##### ![AWS-13-EFS-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-13/EFS/01-LaunchTwoInstancesIn2AZs-WithNFS-SG.PNG)
+##### ![AWS-13-EFS-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/01-LaunchTwoInstancesIn2AZs-WithNFS-SG.PNG)
 
 3 AZs chosen for mount point targets
-##### ![AWS-13-EFS-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-13/EFS/02a-ChooseEFS-SGIN3AZs.PNG)
+##### ![AWS-13-EFS-02a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/02a-ChooseEFS-SGIN3AZs.PNG)
 
 EFS created
-##### ![AWS-13-EFS-02b](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/02b-EFSCreated.PNG)
+##### ![AWS-13-EFS-02b](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/02c-EFSCreated.PNG)
 
 Mounting and file creation in one instance
 ##### ![AWS-13-EFS-03a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/EFS/03a-efs-instance01-3filesCreated.PNG)
