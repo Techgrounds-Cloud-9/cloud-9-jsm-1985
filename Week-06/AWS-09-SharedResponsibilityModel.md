@@ -33,7 +33,7 @@ Inherited controls - Physical and environmental controls which a customer fully 
 
 Shared controls - here AWS provides the requirements for the infrastructure and customer must provide their own control implementation. For eg, in patch management, AWS patches the flaws in the infrastructure, but customers should patch their OS.In the case of configuration management, AWS configures the infrastructure, but customer must configure their own OS, DB and application. For awareness and training programs, AWs trains their employees, but a customer has to train their own employees.
 
-##### ![AWS-09-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/SRM/SRM-01.PNG)
+##### ![AWS-09-01](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/SRM/SRM-01.png)
 
 
 
