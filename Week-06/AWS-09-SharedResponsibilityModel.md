@@ -26,7 +26,7 @@ Had to understand what are the responsibilities of the customer and what will be
 
 ### Results
 
-1) The shared responsibility model was studied which outlines what the AWS is responsible for and what customers are responsible for while adopting a cloud infrastructure.
+1)The shared responsibility model was studied which outlines what the AWS is responsible for and what customers are responsible for while adopting a cloud infrastructure.
 The shared responsibility model is applicable in the case of both services and iT controls.In the case of services, the responsibility shared between AWS and customers depends on the type of the service like IaaS, SaaS and PaaS.  In the case of controls, some types are 
 
 Inherited controls - Physical and environmental controls which a customer fully inherits from AWS
