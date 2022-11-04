@@ -119,7 +119,7 @@ ASG creation
 ##### ![AWS-11-03c](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-11/03c-ASGCreated.PNG)
 
 Two instances created by ASG
-##### ![AWS-11-03d](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-11/03d-03d-twoInstancesCreatedBYASGIn2AZs.PNG)
+##### ![AWS-11-03d](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-06/AWS-11/03d-twoInstancesCreatedBYASGIn2AZs.PNG)
 
 
 Public DNS of ELB
