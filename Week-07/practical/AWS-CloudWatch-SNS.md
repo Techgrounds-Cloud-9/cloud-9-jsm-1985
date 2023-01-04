@@ -50,7 +50,7 @@ creating the alarm
 
 actions enabled in the alarm
 
-##### ![AWS-cloudwatch-sns-03b](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-07/AWS/CloudWatch-SNS/03a-actions.PNG)
+##### ![AWS-cloudwatch-sns-03b](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-07/AWS/CloudWatch-SNS/03b-actions.PNG)
 
 installing epel
 
@@ -67,7 +67,7 @@ stressing the ec2
 
 
 cpu utilization greater than the threshold in ec2 console
-##### ![AWS-cloudwatch-sns-05a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-07/AWS/CloudWatch-SNS/05a-CPU%gretaerInec2Console.PNG)
+##### ![AWS-cloudwatch-sns-05a](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/Week-07/AWS/CloudWatch-SNS/05a-CPU%25gretaerInec2Console.PNG)
 
 cpu utilization greater than the threshold in cloudwatch 
 
