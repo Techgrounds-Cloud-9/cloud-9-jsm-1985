@@ -3,16 +3,16 @@
 
 ## One Sentence summary of the day
 
----
+
 Deployed the entire stack and tested. 
 
 ## Challenges
----
+
 
 None 
 
 ## Solutions
----
+
 NA
 
 # Log [15/12/2022]
