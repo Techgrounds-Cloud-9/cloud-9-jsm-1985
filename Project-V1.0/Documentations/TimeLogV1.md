@@ -178,7 +178,6 @@ Had to understand how to give the arguements and pass various values
 
 ## Solutions
 
----
 
 Understood it on reading the documentation repeatedly
 
@@ -206,7 +205,6 @@ Had some errors during installation
 
 Resolved them after reading more about it
 
-____
 
 # Log [30/11/2022]
 
@@ -251,7 +249,7 @@ Gradually understood how solution is implemented
 
 # Log [28/11/2022]
 
----
+
 
 ## One Sentence summary of the day
 
