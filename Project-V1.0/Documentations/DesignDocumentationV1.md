@@ -24,7 +24,7 @@ The design decisions of the architecture is as follows
     - The NACLs are implemented at the subnet level
 
 - KMS key
-    - to encrypt the ebs volume of admin server, auto scaled instances and the back up vault key
+    - to encrypt the ebs volume of admin server, web server and the back up vault key
 
 
 - back up plan
