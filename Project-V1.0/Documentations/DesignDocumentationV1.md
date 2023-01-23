@@ -35,7 +35,7 @@ The design decisions of the architecture is as follows
 
 The architectural diagram is shown below
 
-##### ![AWS-architectureDiag-V2](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/projV1.0/architecture-V1.PNG)
+##### ![AWS-architectureDiag-V2](https://github.com/Techgrounds-Cloud-9/cloud-9-jsm-1985/blob/main/00_includes/projV1.0/architecture-V1.png)
 
 
  
