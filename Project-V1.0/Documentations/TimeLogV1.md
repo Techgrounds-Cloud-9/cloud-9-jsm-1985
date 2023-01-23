@@ -63,7 +63,6 @@ Have to see how to use the key content
 
 
 ## Solutions
----
 
 Understood it when parameter stores was checked
 
@@ -81,96 +80,77 @@ How to add rule
 
 
 ## Solutions
----
+
 Resolved it by reading article on cron scheduler
 
 
-____
+
 # Log [09/12/2022]
 
 
 ## One Sentence summary of the day
 
-----
+
 Launched the webserver with s.g and tried to make it read the user data from the local path
 
 
 ## Challenges
-----
+
 
 It showed error 
 
 ## Solutions
----
+
 Resolved it by giving the correct path of the file
-
-
-____
 
 # Log [08/12/2022]
 
 ## One Sentence summary of the day
 
----
-
 Deployed network stack with 2 vpcs, S.G, launched two instances in eu-central-1a and eu-central-1b, s3 bucket, uploaded file into it. 
 
 ## Challenges
----
 
 Faced some issues while trying to test the rdp connection from the windows laptop into admin server
 
 ## Solutions
----
 
 resolved it by copying the same pem file into the windows server and giving the full path of the same in the command ssh -i
 
-____
 # Log [07/12/2022]
 
 
 ## One Sentence summary of the day
----
 
 Added vpc peering to the network stack and deployed it
 
 ## Challenges
----
 
 Faced some run time errors while deploying it
 
 ## Solutions
----
 
 Read articles on them and resolved them
 
-____
 # Log [06/12/2022]
 
-
 ## One Sentence summary of the day
-
-----
 
 Added S.G, NACL to the vpc 
 
 ## Challenges
-----
 
 Had to see how to provision them using code. Faced issues while deploying
 
 ## Solutions
----
 
 Corrected them by reading the documents on them
-
-____
 
 # Log [06/12/2022]
 
 
 ## One Sentence summary of the day
----
+
 
 Tested the VPC provisioning by deploying it. 
 ## Challenges
@@ -181,19 +161,18 @@ Errors when synthesizing the cdk
 
 Read various articles and solved them
 
-____
 # Log [02/12/2022]
 
 
 ## One Sentence summary of the day
----
+
  
 Wrote the IaC to provision a basic VPC
 
 
 ## Challenges
 
----
+
 
 Had to understand how to give the arguements and pass various values
 
@@ -207,23 +186,23 @@ ____
 
 # Log [01/12/2022]
 
----
+
 
 ## One Sentence summary of the day
 
----
+
 
 Installed the basic system requirements to get started
 
 ## Challenges
 
----
+
 
 Had some errors during installation
 
 ## Solutions
 
----
+
 
 Resolved them after reading more about it
 
@@ -233,23 +212,20 @@ ____
 
 ## One Sentence summary of the day
 
----
 
 Read the documents and watched the videos on cdk
 
 ## Challenges
 
----
 
-Had some doubts
+
+Had some doubts on how to install pre requisites
 
 
 ## Solutions
 
----
-Got better understanding
+Got better understanding on reading the docs and watching videos
 
-____
 
 # Log [29/11/2022]
 
@@ -257,23 +233,21 @@ ____
 
 ## One Sentence summary of the day
 
----
 
 Spent the whole day reading and watching videos on cdk
 
 ## Challenges
 
----
+
 
 Tried to understand how the coding is used to provision infrastructure.
 
 ## Solutions
 
----
 
 Gradually understood how solution is implemented
 
-____
+
 
 # Log [28/11/2022]
 
@@ -281,18 +255,18 @@ ____
 
 ## One Sentence summary of the day
 
----
+
 
 Spent the entire day studying the requirements
 
 ## Challenges
 
----
+
 
 Was confused why the management server was shown in another region
 
 ## Solutions
 
----
+
 
 Understood it was a flaw in the architecture.
