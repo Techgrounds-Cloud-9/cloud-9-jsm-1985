@@ -19,47 +19,46 @@ NA
 
 ## One Sentence summary of the day
 
----
+
 
 Deployed the entire stack without NACL which worked. Tried to add NACL rules in the GUI which was not working.
 
 ## Challenges
----
+
 Had to figure out the use of ephemeral ports
 
 
 ## Solutions
----
+
 
 Was able to allow the required inbound and outbound traffic
 
-____
+
 # Log [14/12/2022]
 
 
 ## One Sentence summary of the day
----
+
 Added the needed encryption keys
 
 ## Challenges
----
+
 
 Had to look how to use the KMS 
 
 ## Solutions
----
+
 Understood it on implementing the same
-____
+
 # Log [13/12/2022]
 
 ## One Sentence summary of the day
 
----
 Automated the keypair generation 
 
 
 ## Challenges
----
+
 Have to see how to use the key content 
 
 
@@ -68,17 +67,16 @@ Have to see how to use the key content
 
 Understood it when parameter stores was checked
 
-____
+
 # Log [12/12/2022]
 
 
 ## One Sentence summary of the day
----
 Added the back up policies
 
 
 ## Challenges
----
+
 How to add rule
 
 
