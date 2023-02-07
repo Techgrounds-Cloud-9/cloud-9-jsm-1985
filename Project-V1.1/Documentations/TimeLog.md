@@ -1,17 +1,16 @@
 
 # Time logs
----
+
 
 # Log [19/01/2023]
 
 ## One Sentence summary of the day
 
----
 Tested all the stacks and ensured all are deployed properly
 
 
 ## Challenges
----
+
 none
 
 
