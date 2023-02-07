@@ -15,28 +15,28 @@ none
 
 
 ## Solutions
----
+
 none
 
 
-____
+
 # Log [18/01/2023]
 
 
 ## One Sentence summary of the day
----
+
 How to use the jump host server so that there is no need to store the private key in the window server
 
 ## Challenges
----
+
 Showed error on trying to download the openssh in windows server.
 
 ## Solutions
----
+
 Understood that it was because the ports 80 and 443 of the windows server being closed were not allowing for the internet connection.Solved by configuring the SG and NACL appropriately
 
 
-____
+
 # Log [17/01/2023]
 
 ## One Sentence summary of the day
@@ -50,6 +50,7 @@ How to use the value of one stack in another
 
 
 ## Solutions
+
 Understood it when I read the documentation of multiple stacks of AWS.
 
 
