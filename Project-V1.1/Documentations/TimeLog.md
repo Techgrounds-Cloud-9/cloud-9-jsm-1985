@@ -175,7 +175,7 @@ Understood it on reading the documentation repeatedly
 
 ## One Sentence summary of the day
 
----
+
 
 Deployed the newly added ASG and tested first on port 80.
 
