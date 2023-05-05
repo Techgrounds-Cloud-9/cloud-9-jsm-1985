@@ -55,7 +55,7 @@ The design decisions of the architecture is as follows
     - to store the user data(post deployment script) scripts and web page related documents
 
 - ACM 
-    - to manage and store the created self signed  certificate. 
+    - to manage and store the created self signed certificate. 
 
 The architecture diagram for the version 1.1 ia as below
 
